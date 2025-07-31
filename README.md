@@ -1,1 +1,2 @@
 # rock-paper-scissors-js
+Made a simple rock paper scissors game to get a small grasp on Javascript. I'm very acquainted with Java so I can compare and see what's different and same between the two. I think the dynamic typing for variable is sort of confusing, coming from a strict typed language like Java. I'm excited to learn more.
